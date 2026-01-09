@@ -22,7 +22,7 @@ Consolidar conceitos fundamentais de front-end, incluindo:
 
 ## 🌐 Acesso ao projeto
 🔗 GitHub Pages:  
-*(adicione o link aqui, se publicar)*
+*https://darthzin-mm.github.io/projeto-login/*
 
 ## 🚧 Status do projeto
 ✔ Concluído — projeto de estudo
